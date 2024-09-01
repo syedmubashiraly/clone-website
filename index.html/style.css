@@ -1,0 +1,21 @@
+.list-item {
+    margin-left: 50px;
+}
+.btn-green {
+    background-color: #B9FF66;
+    width: 150px;
+    height: 40px;
+    border: none;
+    font-weight: 600;
+    font-size: x-large;
+    text-align: center;
+}
+.btn-green2 {
+    background-color: #B9FF66;
+    width: 250px;
+    height: 40px;
+    border: none;
+    font-weight: 600;
+    font-size: x-large;
+    text-align: center;
+}
